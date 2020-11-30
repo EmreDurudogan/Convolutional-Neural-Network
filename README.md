@@ -1,2 +1,2 @@
-# Convolutional-Neural-Network
+# Convolutional-Neural-Network-AlexNet
 AlexNet
